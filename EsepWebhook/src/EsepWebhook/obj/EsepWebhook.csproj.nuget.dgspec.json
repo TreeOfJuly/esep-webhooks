@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/treeofjuly/Documents/CIS4930/Assignment9/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {}
+    "/home/treeofjuly/Documents/CIS4930/Assignment9/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {}
   },
   "projects": {
-    "/home/treeofjuly/Documents/CIS4930/Assignment9/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {
+    "/home/treeofjuly/Documents/CIS4930/Assignment9/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/treeofjuly/Documents/CIS4930/Assignment9/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+        "projectUniqueName": "/home/treeofjuly/Documents/CIS4930/Assignment9/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
         "projectName": "EsepWebhook",
-        "projectPath": "/home/treeofjuly/Documents/CIS4930/Assignment9/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+        "projectPath": "/home/treeofjuly/Documents/CIS4930/Assignment9/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
         "packagesPath": "/home/treeofjuly/.nuget/packages/",
-        "outputPath": "/home/treeofjuly/Documents/CIS4930/Assignment9/EsepWebhook/src/EsepWebhook/obj/",
+        "outputPath": "/home/treeofjuly/Documents/CIS4930/Assignment9/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/treeofjuly/.nuget/NuGet/NuGet.Config"
@@ -51,6 +51,10 @@
             "Amazon.Lambda.Serialization.SystemTextJson": {
               "target": "Package",
               "version": "[2.4.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
